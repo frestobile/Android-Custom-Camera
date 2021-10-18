@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VIService Camera</string>
+
+    <string name="info_permissions">Permissions are required!</string>
+    <string name="info_permissions_content">The application requires several permissions to work correctly. Give them in settings.</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_settings">Settings</string>
+    <string name="preview_description">A video will be shown here</string>
+    <string name="button_take_picture">Take a photo</string>
+    <string name="button_record_video">Take a video</string>
+    <string name="button_upload_content">Upload to the server</string>
+    <string name="button_upload_ok">OK</string>
+
+    <string name="dialog_uploading">Uploading&#8230;</string>
+
+    <string name="error_device_no_camera">Your device does not have a camera!</string>
+    <string name="error_no_internet">No internet connection!</string>
+    <string name="error_http_status_code">An error occured! Error code:</string>
+    <string name="error_file_path">There is no file path!</string>
+    <string name="error_image_canceled">The user has canceled taking the photo</string>
+    <string name="error_video_canceled">The user has canceled recording the video</string>
+    <string name="error_image_err">An unknown error occurred while adding the photo!</string>
+    <string name="error_video_err">An unknown error occurred while adding the video!</string>
+
+    <string name="response_from_server">Response from the server:</string>
+    <string name="response_videoID">Video ID: </string>
+    <string name="response_tech">Technician:</string>
+    <string name="response_error">Error:</string>
+    <string name="response_car">Car Number:</string>
+    <string name="response_message">Message:</string>
+    <string name="response_fileurl">Address:</string>
+    <string name="device_id">ID:</string>
+    <string name="device_hint">Device ID</string>
+    <string name="pin_hint">PIN Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="login_screen">DEVICE LOGIN</string>
+    <string name="video_id">VIDEO ID</string>
+    <string name="video_name">VIDEO NAME</string>
+    <string name="car_number">CAR NUMBER</string>
+    <string name="tech_name">TECHNICIAN</string>
+    <string name="file_limit_size_upload_format">Files must be less than %sMB</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="initiating">Initiating…</string>
+    <string name="processing">Processing…</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="done">Done</string>
+    <string name="picture">Picture</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
+
+</resources>
